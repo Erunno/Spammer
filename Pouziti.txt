@@ -1,0 +1,20 @@
+Prihlasovaci udaje lze mit prilozene ve stejnem adresati jako je UniversalSpammer.exe soubor (email na prvnim radku, heslo na druhem - soubor musi byt pojmenovany ucet.txt)
+	Jinak se tyto udaje vyplni primo v konzoli
+
+Zadavani vsech udaju je oddelene teckou na samostatnem radku, tedy: 
+
+Predmet emailu:
+Zadek heheheh
+.
+Telo emailu:
+Jiny zadek
+Zadek na dalsim radku
+.
+Pocet odeslanych emailu: 4200
+Pridat prijemce:
+lovre@seznam.cz
+.
+
+
+Pote se zacnout odesilat emaily
+
